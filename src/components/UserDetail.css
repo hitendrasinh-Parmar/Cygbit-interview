@@ -1,0 +1,36 @@
+.imageDiv{
+    display: flex;
+    flex-direction: row;
+    justify-content: first baseline;
+    align-items: center;
+    padding :20px;
+    border-bottom: 1px solid #6c757d;
+    
+}
+.imageDiv img{
+    width: 10vw
+    
+}
+
+.imageDiv h3{
+    padding: 20px;
+    
+}
+
+.cardBody{
+
+    padding :20px !important;
+    border-bottom: 1px solid #6c757d;
+}
+
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+
+.Card{
+    width: 60% !important;
+    border: none;
+}

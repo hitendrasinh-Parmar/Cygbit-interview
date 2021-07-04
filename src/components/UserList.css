@@ -1,0 +1,29 @@
+.Table{
+    
+
+    margin: 20px;
+    width: 70vw;
+    min-height: 70%;
+}
+
+
+.Table th,.Table td{
+  text-align: left;
+  padding: 0.5rem;   
+}
+.TableContainer{
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
+}
+
+img{
+    position: relative;
+    width: 5vw;
+    border-radius: 50% !important;
+}
+
+.Hidden{
+    display: none;
+}
